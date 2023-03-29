@@ -1,0 +1,18 @@
+C language is a general-purpose programming language that was developed in 1972 by Dennis Ritchie at Bell Labs. It is a procedural language that has been widely used for system programming, embedded systems, and application programming. C language is a structured language that provides low-level access to computer memory and has features for high-level programming as well.
+
+Features of C language:
+
+Portability: C programs can be compiled and executed on different platforms with minimal changes.
+Efficiency: C language provides direct access to system resources, allowing for efficient programming.
+Modularity: C language provides modularity through functions, allowing for better organization of code.
+Low-level programming: C language provides access to low-level memory manipulation, making it useful for system programming.
+Easy to learn: C language has a simple syntax and a relatively small set of keywords, making it easy to learn for beginners.
+Structure of a C program:
+A C program is composed of a set of functions. The main function is the entry point of the program and is executed first. Other functions are called from the main function or from other functions. A C program also includes preprocessor directives, variables, and statements.
+
+Life cycle of a C program:
+
+Preprocessing: The preprocessor reads the source code and performs textual substitutions based on preprocessor directives.
+Compilation: The compiler reads the preprocessed source code and generates object code.
+Linking: The linker combines the object code with library code to create an executable program.
+Execution: The operating system loads the executable program into memory and executes it.

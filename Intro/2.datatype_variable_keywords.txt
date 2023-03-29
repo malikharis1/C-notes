@@ -1,0 +1,7 @@
+Data types and variables are important concepts in programming that help us store and manipulate data in a program.
+
+A variable is a named storage location in a computer's memory that can hold a value. Think of it as a container where we can store and retrieve data. For example, we can create a variable called "age" to store someone's age.
+
+A constant is a value that cannot be changed once it is defined. Think of it as a fixed value that we can use throughout the program. For example, we can define a constant called "PI" to represent the mathematical constant pi.
+
+Keywords are reserved words in C language that have a specific meaning and cannot be used as variable names or other identifiers in the program. Examples of keywords include "if", "else", "for", "while", and "int".
