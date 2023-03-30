@@ -4,27 +4,27 @@ This repository contains simple C programs for beginners to practice and learn b
 
 ## Data Types and Variables:    
 
-- convert temperature from Fahrenheit to Celsius // formula = (F - 32) * 5 / 9
-- calculate the area of a circle // formula = 3.14 * r * r
-- calculate the simple interest on a loan // formula = (amount * interest * time) / 100
+- ✅convert temperature from Fahrenheit to Celsius // formula = (F - 32) * 5 / 9
+- ✅calculate the area of a circle // formula = 3.14 * r * r
+- ✅calculate the simple interest on a loan // formula = (amount * interest * time) / 100
 
 ## Input and Output:
 
-- read and display a string
-- read and display an integer
-- read and display a float
+- ✅read and display a string
+- ✅read and display an integer
+- ✅read and display a float
 
 ## Conditional Statements:
 
-- find the largest of three numbers
-- check if a number is positive, negative or zero
-- check if a number is even or odd
+- ✅find the largest of three numbers
+- ✅check if a number is positive, negative or zero
+- ✅check if a number is even or odd
 
 ## Loops:
 
 - print the Fibonacci series
-- print the multiplication table of a number
-- find the factorial of a number
+- ✅print the multiplication table of a number
+- ✅find the factorial of a number
 
 ## Arrays:
 
