@@ -1,8 +1,8 @@
-# Basic C Programming Examples
+# Basic C Programming Examples 🎇
 
 This repository contains simple C programs for beginners to practice and learn basic concepts of C programming language. 
 
-## Data Types and Variables:
+## Data Types and Variables:    
 
 - convert temperature from Fahrenheit to Celsius // formula = (F - 32) * 5 / 9
 - calculate the area of a circle // formula = 3.14 * r * r

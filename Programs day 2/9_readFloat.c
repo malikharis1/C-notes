@@ -1,3 +1,5 @@
+// how to print float 
+
 #include <stdio.h>
 #include <conio.h>
 

@@ -1,3 +1,5 @@
+// how to print string 
+
 #include <stdio.h>
 #include <conio.h>
 void main()
