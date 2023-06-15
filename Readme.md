@@ -1,36 +1,39 @@
 # Basic C Programming Examples 🎇
 
-This repository contains simple C programs for beginners to practice and learn basic concepts of C programming language. 
+This repository contains simple C programs for beginners to practice and learn basic concepts of C programming language.
 
-## Data Types and Variables:    
-
-- ✅convert temperature from Fahrenheit to Celsius // formula = (F - 32) * 5 / 9
-- ✅calculate the area of a circle // formula = 3.14 * r * r
-- ✅calculate the simple interest on a loan // formula = (amount * interest * time) / 100
+## Data Types and Variables:
+- Programs day 1
+- ✅convert temperature from Fahrenheit to Celsius // formula = (F - 32) \* 5 / 9
+- ✅calculate the area of a circle // formula = 3.14 _ r _ r
+- ✅calculate the simple interest on a loan // formula = (amount _ interest _ time) / 100
 
 ## Input and Output:
-
+- Programs day 2
 - ✅read and display a string
 - ✅read and display an integer
 - ✅read and display a float
 
 ## Conditional Statements:
-
+- Programs day 3
 - ✅find the largest of three numbers
 - ✅check if a number is positive, negative or zero
 - ✅check if a number is even or odd
 
 ## Loops:
-
+- Programs day 4
 - print the Fibonacci series
 - ✅print the multiplication table of a number
 - ✅find the factorial of a number
+- ✅Swapping of two numbers
 
 ## Arrays:
-
-- find the sum of elements in an array
-- find the maximum element in an array
-- sort an array in ascending order
+- Programs day 5
+-✅ find the sum of elements in an array
+-✅ find the maximum element in an array
+-✅ sort an array in ascending order
+- Programs day 7
+-✅ Bubble Sort, Insertion Sort and Selection Sort 
 
 ## Functions:
 
@@ -60,7 +63,7 @@ This repository contains simple C programs for beginners to practice and learn b
 
 This repository is public and contributions are welcome. Feel free to suggest changes or create pull requests.
 
-### About the Creator  🚀
+### About the Creator 🚀
 
 My name is Haris Malik and I'm a front-end web developer. I'm 20 years old and currently pursuing my Bachelor of Computer Applications at Amar Singh College. I'm also teaching web development at Alfurqan Computers.
 
