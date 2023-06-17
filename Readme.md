@@ -3,24 +3,28 @@
 This repository contains simple C programs for beginners to practice and learn basic concepts of C programming language.
 
 ## Data Types and Variables:
+
 - Programs day 1
 - ✅convert temperature from Fahrenheit to Celsius // formula = (F - 32) \* 5 / 9
 - ✅calculate the area of a circle // formula = 3.14 _ r _ r
 - ✅calculate the simple interest on a loan // formula = (amount _ interest _ time) / 100
 
 ## Input and Output:
+
 - Programs day 2
 - ✅read and display a string
 - ✅read and display an integer
 - ✅read and display a float
 
 ## Conditional Statements:
+
 - Programs day 3
 - ✅find the largest of three numbers
 - ✅check if a number is positive, negative or zero
 - ✅check if a number is even or odd
 
 ## Loops:
+
 - Programs day 4
 - print the Fibonacci series
 - ✅print the multiplication table of a number
@@ -28,24 +32,32 @@ This repository contains simple C programs for beginners to practice and learn b
 - ✅Swapping of two numbers
 
 ## Arrays:
+
 - Programs day 5
--✅ find the sum of elements in an array
--✅ find the maximum element in an array
--✅ sort an array in ascending order
-- Programs day 7
--✅ Bubble Sort, Insertion Sort and Selection Sort 
+  -✅ find the sum of elements in an array
+  -✅ find the maximum element in an array
+  -✅ sort an array in ascending order
 
 ## Functions:
 
-- find the square of a number using a function
-- find the GCD of two numbers using a function
-- find the factorial of a number using a function
+-✅ Programs day 7
+-✅ Functions with No Return Value:
+-✅ Functions with Return Value:
+-✅ Functions without Parameters:
+-✅ Functions with Parameters:
+-✅ Recursive Functions:
+-✅ Library Functions:
+
+## USE
+
+- Programs day 8
+  -✅ Bubble Sort, Insertion Sort and Selection Sort
 
 ## Pointers:
 
-- swap two numbers using pointers
-- find the maximum element in an array using pointers
-- reverse a string using pointers
+- Programs day 9
+  -✅ Pointers
+  -✅ swap two numbers using pointers
 
 ## Structures:
 
