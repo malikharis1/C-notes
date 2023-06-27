@@ -2,7 +2,7 @@
 void main()
 {
     FILE *fptr;
-    fptr = fopen("file.text", "w");
+    fptr = fopen("file.text", "r");
     if (fptr == NULL)
     {
         printf("The file is not opened. The program will "
