@@ -35,13 +35,13 @@ This repository contains simple C programs for beginners to practice and learn b
 ## Arrays:
 
 - Programs day 5
-  -✅ find the sum of elements in an array
-  -✅ find the maximum element in an array
-  -✅ sort an array in ascending order
+-✅ find the sum of elements in an array
+-✅ find the maximum element in an array
+-✅ sort an array in ascending order
 
 - Programs day 5
-  -✅ Linear Search
-  -✅ Sorting
+-✅ Linear Search
+-✅ Sorting
 
 ## Functions:
 
@@ -56,39 +56,39 @@ This repository contains simple C programs for beginners to practice and learn b
 ## USE
 
 - Programs day 8
-  -✅ Bubble Sort, Insertion Sort and Selection Sort
+-✅ Bubble Sort, Insertion Sort and Selection Sort
 
 ## Pointers:
 
 - Programs day 9
-  -✅ Pointers
-  -✅ swap two numbers using pointers
+-✅ Pointers
+-✅ swap two numbers using pointers
 
 ## Structures:
 
 - Programs day 10
-  -✅ create a structure and display its contents
+-✅ create a structure and display its contents
 
 ## Unions
 
 - Programs day 11
-  -✅ create a Union and display its contents
+-✅ create a Union and display its contents
 
 ## 2D Arrays
 
 - Programs day 12
-  -✅ 2D Array
-  -✅ 2D Array Multiplication
-  -✅ 2D Array Transpose
-  -✅ String Methods in one program
+-✅ 2D Array
+-✅ 2D Array Multiplication
+-✅ 2D Array Transpose
+-✅ String Methods in one program
 
 ## Files
 
 - Programs day 13
-  -✅ Write in file
-  -✅ Read from a file
-  -✅ Read and Write from a file
-  -✅ String Methods in one program
+-✅ Write in file
+-✅ Read from a file
+-✅ Read and Write from a file
+-✅ String Methods in one program
 
 ## Other Programs
 
