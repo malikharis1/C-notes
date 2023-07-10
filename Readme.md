@@ -2,7 +2,7 @@
 
 # Basic C Programming Examples 🎇
 
-Welcome to the "4C-Notes" repository! This collection features a variety of simple C programs designed specifically for beginners. Whether you're new to programming or looking to strengthen your understanding of fundamental concepts in C, these examples are perfect for practice and learning.
+Welcome to the "C-Notes" repository! This collection features a variety of simple C programs designed specifically for beginners. Whether you're new to programming or looking to strengthen your understanding of fundamental concepts in C, these examples are perfect for practice and learning.
 
 ## Data Types and Variables:
 
