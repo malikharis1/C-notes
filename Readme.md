@@ -112,4 +112,4 @@ This repository is public and contributions are welcome. Feel free to suggest ch
 
 My name is Haris Malik and I'm a front-end web developer. I'm 20 years old and currently pursuing my Bachelor of Computer Applications at Amar Singh College. I'm also teaching web development at Alfurqan Computers.
 
-I have also created some other web applications, which you can check out on my personal website: malikharis.in
+I have also created some other web applications, which you can check out on my personal website: https://malikharis.in
