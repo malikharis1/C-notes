@@ -1,3 +1,5 @@
+## 47+ Codes
+
 # Basic C Programming Examples 🎇
 
 This repository contains simple C programs for beginners to practice and learn basic concepts of C programming language.
@@ -26,7 +28,6 @@ This repository contains simple C programs for beginners to practice and learn b
 ## Loops:
 
 - Programs day 4
-- print the Fibonacci series
 - ✅print the multiplication table of a number
 - ✅find the factorial of a number
 - ✅Swapping of two numbers
@@ -37,6 +38,10 @@ This repository contains simple C programs for beginners to practice and learn b
   -✅ find the sum of elements in an array
   -✅ find the maximum element in an array
   -✅ sort an array in ascending order
+
+- Programs day 5
+  -✅ Linear Search
+  -✅ Sorting
 
 ## Functions:
 
@@ -61,15 +66,43 @@ This repository contains simple C programs for beginners to practice and learn b
 
 ## Structures:
 
-- create a structure for a student and display its contents
-- calculate the total marks and percentage of a student using a structure
-- sort an array of structures based on a particular field
+- Programs day 10
+  -✅ create a structure and display its contents
 
-## Bitwise Operators:
+## Unions
 
-- count the number of set bits in an integer
-- toggle the nth bit of an integer
-- swap two bits in an integer
+- Programs day 11
+  -✅ create a Union and display its contents
+
+## 2D Arrays
+
+- Programs day 12
+  -✅ 2D Array
+  -✅ 2D Array Multiplication
+  -✅ 2D Array Transpose
+  -✅ String Methods in one program
+
+## Files
+
+- Programs day 13
+  -✅ Write in file
+  -✅ Read from a file
+  -✅ Read and Write from a file
+  -✅ String Methods in one program
+
+## Other Programs
+
+-✅ Reverse of a number
+-✅ Prime Number
+-✅ Marks Card
+-✅ Net Salary
+-✅ Mobile Bill
+-✅ Merge Two Arrays
+-✅ Copy of string (Both methods using predefined function / without using predefined function)
+-✅ Reverse of string (Both methods using predefined function / without using predefined function)
+-✅ Concat of strings (Both methods using predefined function / without using predefined function)
+-✅ String length function
+-✅ String compare function
 
 ## Contribution 🎇
 
