@@ -1,4 +1,4 @@
-//program for copying one string to another predifined
+//program for copying one string to another predefined
 #include<conio.h>
 #include<stdio.h>
 void main()
