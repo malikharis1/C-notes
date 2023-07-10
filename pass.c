@@ -4,7 +4,7 @@
 #define MAX_LENGTH 10
 #define MIN_LENGTH 8
 
-char characters[] = "2516amar@%";
+char characters[] = "name";
 
 void generate_passwords(int length, char *password, FILE *f) {
     if (length == MAX_LENGTH) {
